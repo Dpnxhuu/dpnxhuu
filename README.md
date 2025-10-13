@@ -1,9 +1,9 @@
 <h1>Hi👋, I’m Deepanshu</h1>
 
- BCA Final Year Student
- From Meerut, Uttar Pradesh, India
- Currently learning Full Stack Development
- Focused on Frontend (HTML, CSS, JavaScript, React) and Backend (Node.js, Express, Databases)
+ BCA Final Year Student <br>
+ From Meerut, Uttar Pradesh, India <br>
+ Currently learning Full Stack Development <br>
+ Focused on Frontend (HTML, CSS, JavaScript, React) and Backend (Node.js, Express, Databases) <br>
 
 <h2>What I Do</h2>
 
