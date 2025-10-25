@@ -11,7 +11,7 @@
 <li>Learn and apply modern web development practices</li>
 <li>Improve problem-solving and coding skills daily</li>
 
-<ul><h3>Focused on</h3></ul>
+<ul><h2>Focused on</h2></ul>
 <li>Become a professional Full Stack Developer</li>
 <li>Contribute to real-world projects and open-source</li>
 <li>Continuously grow and learn new technologies</li>
