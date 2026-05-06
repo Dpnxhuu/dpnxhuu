@@ -6,7 +6,7 @@
 
 *Building things on the web, one commit at a time 🚀*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dpnxhuu--portfolio.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://dpnxhuu-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dpnxhuu.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://dpnxhuu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-idpnshuu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idpnshuu/)
 [![X](https://img.shields.io/badge/X-idpnshuu-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/idpnshuu)
 [![Email](https://img.shields.io/badge/Email-dpnxhuu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dpnxhuu@gmail.com)
@@ -57,13 +57,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dpnxhuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dpnxhuu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Dpnxhuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dpnxhuu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dpnxhuu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
+
 ---
 
 ## 🚀 Featured Projects
