@@ -57,16 +57,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dpnxhuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" onerror="this.style.display='none'"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dpnxhuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dpnxhuu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" onerror="this.style.display='none'"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dpnxhuu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dpnxhuu&theme=tokyonight&hide_border=true" alt="GitHub Streak" onerror="this.style.display='none'"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dpnxhuu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
-
-> 📈 *Stats update every few hours. If cards don't load, [view profile directly →](https://github.com/Dpnxhuu)*
-
 ---
 
 ## 🚀 Featured Projects
