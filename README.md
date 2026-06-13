@@ -21,7 +21,7 @@
 - 💻 Self-taught developer building **real-world full stack web applications**
 - 🔐 Shipped a complete **JWT authentication system** — signup, login, forgot password, HttpOnly cookies
 - 🌱 Currently focused on **Next.js**, **REST APIs**, and **cloud deployment**
-- 🐶 Dog dad & clean code enthusiast
+- 🐶 Clean code enthusiast
 
 ---
 
